@@ -1,9 +1,7 @@
 # Hi there, I'm Beatriz Franco — a 19-year-old
 
-I'm Statistics student at Universidade Federal Fluminense (UFF), Brazil. 
-Currently in the 3rd period of the course 
-I am a dedicated and curious student, looking to grow in the technology field.
-I'm currently exploring programming.  
+I'm a Statistics student at Universidade Federal Fluminense (UFF), Brazil, currently in the 3rd period of the course.  
+I'm a dedicated and curious student, always looking to grow in the field of technology and expand my knowledge.  
 Outside the world of code, I love watching movies and playing sports.
 
 ---
