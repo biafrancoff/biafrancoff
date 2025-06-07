@@ -1,12 +1,12 @@
-# Hi there, I'm Beatriz Franco 
+# Oii! Eu sou a Beatriz Franco
 
-I'm a 19-year-old student studying Statistics at the Universidade Federal Fluminense (UFF), Brazil, currently in the 3rd semester of the course.  
-I'm a dedicated and curious learner, always seeking to grow in the field of technology and expand my knowledge.  
-Outside of the world of programming, I love watching movies and playing sports.
+Sou uma estudante de 19 anos, cursando Estatística na Universidade Federal Fluminense (UFF), Brasil, atualmente no 3º período do curso.  
+Sou uma aluna dedicada e curiosa, sempre buscando crescer na área da tecnologia e expandir meus conhecimentos.  
+Fora do mundo da programação, adoro assistir filmes e praticar esportes.
 
 ---
 
-## Tools & Languages
+## 🛠️ Ferramentas e Linguagens
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -15,10 +15,10 @@ Outside of the world of programming, I love watching movies and playing sports.
 
 ---
 
-## Languages
+## 🌍 Idiomas
 
-- 🇧🇷 Portuguese — native  
-- 🇺🇸 English — intermediate reading and writing  
+- 🇧🇷 Português — nativo  
+- 🇺🇸 Inglês — leitura e escrita intermediária  
 
 
 
