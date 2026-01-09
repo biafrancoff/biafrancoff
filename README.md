@@ -1,6 +1,6 @@
 # Oii! Eu sou a Beatriz Franco
 
-Tenho 19 anos e sou estudante de Estatística da Universidade Federal Fluminense (UFF), atualmente no 3º período do curso.  
+Tenho 19 anos e sou estudante de Estatística da Universidade Federal Fluminense (UFF), atualmente no 5º período do curso.  
 Sou dedicada e curiosa, sempre buscando crescer na área da tecnologia e expandir meus conhecimentos.  
 Fora do universo da programação, adoro assistir filmes e praticar esportes.
 
