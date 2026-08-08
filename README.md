@@ -1,6 +1,6 @@
 # Oii! Eu sou a Beatriz Franco
 
-Tenho 19 anos e sou estudante de Estatística da Universidade Federal Fluminense (UFF), atualmente no 5º período do curso.  
+Tenho 20 anos e sou estudante de Estatística da Universidade Federal Fluminense (UFF), atualmente no 5º período do curso.  
 Sou dedicada e curiosa, sempre buscando crescer na área da tecnologia e expandir meus conhecimentos.  
 Fora do universo da programação, adoro assistir filmes e praticar esportes.
 
@@ -13,13 +13,3 @@ Fora do universo da programação, adoro assistir filmes e praticar esportes.
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🌍 Idiomas
-
-- 🇧🇷 Português — nativo  
-- 🇺🇸 Inglês — leitura e escrita intermediária  
-
-
-
