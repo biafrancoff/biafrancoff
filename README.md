@@ -4,7 +4,7 @@
 
 📊 Tenho interesse em análise de dados, tecnologia e programação, buscando aplicar conhecimentos estatísticos na resolução de problemas reais e no desenvolvimento de projetos.
 
-🚀 Sou uma pessoa dedicada, curiosa e sempre disposta a aprender. Atualmente, venho aprimorando minhas habilidades em ferramentas de análise de dados, visualização, modelagem estatística e desenvolvimento.
+🚀 Sou uma pessoa dedicada, curiosa e sempre disposta a aprender. Atualmente, venho aprimorando minhas habilidades em ferramentas de análise de dados, visualização e modelagem estatística.
 
 ---
 
