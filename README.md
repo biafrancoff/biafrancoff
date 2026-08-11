@@ -1,7 +1,9 @@
 # Olá! Eu sou Beatriz Franco
 
 🎓 Sou estudante de Estatística na Universidade Federal Fluminense (UFF), atualmente cursando o 5º período.
+
 📊 Tenho interesse em análise de dados, tecnologia e programação, buscando aplicar conhecimentos estatísticos na resolução de problemas reais e no desenvolvimento de projetos.
+
 🚀 Sou uma pessoa dedicada, curiosa e sempre disposta a aprender. Atualmente, venho aprimorando minhas habilidades em ferramentas de análise de dados, visualização, modelagem estatística e desenvolvimento.
 
 ---
