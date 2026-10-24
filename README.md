@@ -1,17 +1,21 @@
-# Olá! Eu sou Beatriz Franco
+## Olá, eu sou a Beatriz Franco! 👋
 
-🎓 Sou estudante de Estatística na Universidade Federal Fluminense (UFF), atualmente cursando o 5º período.
+### 🚀 Sobre mim
 
-📊 Tenho interesse em análise de dados, tecnologia e programação, buscando aplicar conhecimentos estatísticos na resolução de problemas reais e no desenvolvimento de projetos.
-
-🚀 Sou uma pessoa dedicada, curiosa e sempre disposta a aprender. Atualmente, venho aprimorando minhas habilidades em ferramentas de análise de dados, visualização e modelagem estatística.
+- 🎓 Sou estudante de Estatística na Universidade Federal Fluminense (UFF), atualmente no 5º período.
+- 📊  Desenvolvo projetos acadêmicos com **R**, aplicando métodos estatísticos para explorar, analisar e interpretar dados.
+- 🛠️ Também venho aprimorando meus conhecimentos em **Python, Power BI e Excel**, além de utilizar **Git e GitHub** para organizar e compartilhar meus projetos.
+- 💡 Tenho interesse na área de dados e busco ampliar meus conhecimentos em análise de dados, visualização e métodos estatísticos.
 
 ---
 
-## 🛠️ Ferramentas e Linguagens
+### 🖥 Ferramentas e Linguagens
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=r" alt="R"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="48" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="48" alt="Excel"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,github,git" alt="Python, GitHub, Git"/>
+  </a>
+</p>
