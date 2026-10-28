@@ -2,8 +2,8 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Sou estudante de Estatística na Universidade Federal Fluminense (UFF), atualmente no 5º período.
-- 📊  Desenvolvo projetos acadêmicos com **R**, aplicando métodos estatísticos para explorar, analisar e interpretar dados.
+- 🎓 Estudante de Estatística na Universidade Federal Fluminense (UFF), atualmente no 5º período.
+- 📊 Desenvolvo projetos acadêmicos com **R**, aplicando métodos estatísticos para explorar, analisar e interpretar dados.
 - 🛠️ Também venho aprimorando meus conhecimentos em **Power BI, Excel e Python**, além de utilizar **Git e GitHub** para organizar e compartilhar meus projetos.
 - 💡 Tenho interesse na área de dados e busco ampliar meus conhecimentos em análise de dados, visualização e métodos estatísticos.
 
